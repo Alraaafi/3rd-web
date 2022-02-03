@@ -1,10 +1,10 @@
 body{
 
-    background-color: rgba(17, 4, 63, 0.959);
+    background-color: rgba(0, 0, 0, 0.959);
 }
 h1{
-    color: lime;
+    color: rgb(255, 255, 255);
 }
 p{
-    color: lime;
+    color: rgb(255, 255, 255);
 }
