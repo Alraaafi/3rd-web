@@ -1,4 +1,10 @@
 body{
 
-    background-color: azure;
+    background-color: rgba(17, 4, 63, 0.959);
+}
+h1{
+    color: lime;
+}
+p{
+    color: lime;
 }
